@@ -3,7 +3,7 @@
 Bionic Barnacle is a fan for [the fan showdown on youtube](https://www.youtube.com/@MajorHardware). 
 It is based from [this video](https://www.youtube.com/watch?v=WezeLNC32sA)
 
-Remixed from [bionic propeller](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDlQOWV3MlRJUWs5NHY0c2k5OFRDSzFTTUxid3xBQ3Jtc0tsNko2YWh0VHR2dUwyLWRNTmdCaWJULVF2UFVlSDF3ZEV2dXlqRC1wemwwLWh0d0lObGFDRlNDQXR3eUtmVS05c3RGZTU3RWNabU5EMVpHazA1akVjZTByWlEyeHppUkVKcHQ3QVFCMXhreWRScndKSQ&q=https%3A%2F%2Fgrabcad.com%2Flibrary%2Fbiomimetic-marine-propeller-1&v=WezeLNC32sA)
+Remixed from [bionic propeller](https://grabcad.com/library/biomimetic-marine-propeller-1)
 
 ## Theory
 Blue whales have bone like structures at the front of their fins which act as channels or funnels. 
