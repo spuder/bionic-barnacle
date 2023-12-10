@@ -17,6 +17,12 @@ version 1.0 is a prototype with no engineering into blad angle. There is likely 
 
 
 
+## :globe_with_meridians: Links
+
+
+
+- **Printables**: [https://www.printables.com/model/675791-bionic-barnacle](https://www.printables.com/model/675791-bionic-barnacle)
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
