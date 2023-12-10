@@ -1,29 +1,19 @@
 
-# Changeme
-To change this file, modify settings.yaml and templates/README.md, then run 
-```
-git submodule update -init
-make all
-```
+# Bionic Barnacle
+Bionic Barnacle is a fan for the fan showdown on youtube. 
+It is based from [this video](https://www.youtube.com/watch?v=WezeLNC32sA)
 
-**Do not edit README.md directly as it will be overwritten..**
+## Theory
+Blue whales have bone like structures at the front of their fins which channel the fluid
+The channels increase the stall speed. They also reduce cavitation and noise. 
 
+[video explination](https://youtube.com/clip/UgkxG9djbZuyymOV0Q9jzOuuVxhViXQogz-p?si=p6os4688hcQDM0JV)
 
+## Design
 
-## :globe_with_meridians: Links
-
-
-**Autodesk Fusion 360 file**: [https://autodesk.example.com](https://autodesk.example.com)
+version 1.0 is a prototype with no engineering into blad angle. There is likely much improvment that could be made. 
 
 
-- **Thingiverse**: [https://www.thingiverse.com/thing:xxxx](https://www.thingiverse.com/thing:xxxx)
-- **Printables**: [https://foo.com](https://foo.com)
-- **GrabCad**: [https://foo.com](https://foo.com)
-- **Hackster.io**: [https://hackster.io/foo](https://hackster.io/foo)
-- **Hackaday**: [https://hackaday.io/foo](https://hackaday.io/foo)
-- **Reddit**: [https://www.reddit.com/r/foo](https://www.reddit.com/r/foo)
-- **Github**: [https://github.com/foo](https://github.com/foo)
-- **Blog**: [https://foo.com](https://foo.com)
 
 ## :triangular_ruler: CAD files
 
@@ -33,24 +23,30 @@ make all
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/cube.stl](./CAD%2Fcube.stl) | ![](./CAD%2Fcube.png) | ![](./CAD%2Fcube.gif) | 
-| [CAD/sphere.stl](./CAD%2Fsphere.stl) | ![](./CAD%2Fsphere.png) | ![](./CAD%2Fsphere.gif) | 
+| [CAD/bionic-barnacle-1.0.stl](./CAD%2Fbionic-barnacle-1.0.stl) | ![](./CAD%2Fbionic-barnacle-1.0.png) | ![](./CAD%2Fbionic-barnacle-1.0.gif) | 
+| [CAD/blade.stl](./CAD%2Fblade.stl) | ![](./CAD%2Fblade.png) | ![](./CAD%2Fblade.gif) | 
 
-## :notebook: Resources
-- [foo](https://example.com)
 
 ## :camera: Photos
-![](photos%2Ffoo.jpg)
-![](photos%2Fbar.jpg)
+![](photos%2F1.png)
+![](photos%2FScreenshot%202023-12-09%20at%208.01.15%E2%80%AFPM.png)
+![](photos%2FScreenshot%202023-12-09%20at%208.01.50%E2%80%AFPM.png)
+![](photos%2FScreenshot%202023-12-09%20at%208.02.08%E2%80%AFPM.png)
+![](photos%2FScreenshot%202023-12-09%20at%208.02.14%E2%80%AFPM.png)
+![](photos%2FScreenshot%202023-12-09%20at%208.02.25%E2%80%AFPM.png)
 
 ---
 
-:warning: License missing. Please modify settings.yaml with desired license
-e.g: 
-```
-license: 
-  type: CC-Attribution
-```
+## Creative Commons License-'Attribution'
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+|  |  | 
+|---|---|
+| :white_check_mark: | Share / Redistribute | 
+| :x: | Sharing without ATTRIBUTION |
+| :white_check_mark: | Remix allowed | 
+| :white_check_mark: | Share Remixes | 
+| :white_check_mark: | Commercial Use | 
+| :white_check_mark: | Share remixes under new license | 
 
 
 ---
