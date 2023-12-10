@@ -9,7 +9,7 @@ Remixed from [bionic propeller](https://www.youtube.com/redirect?event=video_des
 Blue whales have bone like structures at the front of their fins which channel the fluid
 The channels increase the stall speed. They also reduce cavitation and noise. 
 
-[video explination of tubicle effect ](https://youtube.com/clip/UgkxG9djbZuyymOV0Q9jzOuuVxhViXQogz-p?si=-x8lITLNDP_PUeTi)
+[video explination of tubercle effect ](https://youtube.com/clip/UgkxG9djbZuyymOV0Q9jzOuuVxhViXQogz-p?si=-x8lITLNDP_PUeTi)
 
 ## Design
 
