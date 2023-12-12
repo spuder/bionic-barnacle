@@ -32,6 +32,9 @@ version 1.0 is a prototype with no engineering into blad angle. There is likely 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
 | [CAD/bionic-barnacle-1.0.stl](./CAD%2Fbionic-barnacle-1.0.stl) | ![](./CAD%2Fbionic-barnacle-1.0.png) | ![](./CAD%2Fbionic-barnacle-1.0.gif) | 
+| [CAD/bionic-barnacle-1.1.stl](./CAD%2Fbionic-barnacle-1.1.stl) | ![](./CAD%2Fbionic-barnacle-1.1.png) | ![](./CAD%2Fbionic-barnacle-1.1.gif) | 
+| [CAD/bionic-barnacle-1.3.stl](./CAD%2Fbionic-barnacle-1.3.stl) | ![](./CAD%2Fbionic-barnacle-1.3.png) | ![](./CAD%2Fbionic-barnacle-1.3.gif) | 
+| [CAD/blade-mirrored.stl](./CAD%2Fblade-mirrored.stl) | ![](./CAD%2Fblade-mirrored.png) | ![](./CAD%2Fblade-mirrored.gif) | 
 | [CAD/blade.stl](./CAD%2Fblade.stl) | ![](./CAD%2Fblade.png) | ![](./CAD%2Fblade.gif) | 
 
 
